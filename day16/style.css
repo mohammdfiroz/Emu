@@ -1,0 +1,26 @@
+*{margin:0px auto; padding:0px;;}
+.wrapper{margin:0px auto; padding:0px; width:80%;}
+.header{height:80px; background:orange;}
+.menu{height:50px;background:black;}
+.content{background:lightgreen;}
+.left{width:40%; float:left;}
+.box{ 
+	background:white; 
+	margin:2%;
+	padding:2%;
+	border:1px solid teal;
+	border-radius:10px;
+	min-height:120px;
+}
+.right{width:60%;float:left;}
+.boxr{ 
+	background:white; 
+	margin:2%;
+	padding:2%;
+	border:1px solid teal;
+	border-radius:10px;
+	min-height:390px;
+}
+
+.footer{height:80px; background:orange;}
+.clear{clear:both;}

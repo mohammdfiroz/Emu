@@ -1,0 +1,63 @@
+<! DOCTYPE HTML>
+<html>
+	<head>
+	<title></title>
+	<style>
+	*{margin:0px auto; padding:0px;}
+	.wrapper{margin:0px auto; width:80%; font-size:18px;}
+	h3{background:black;color:white;width:100px;}
+	h1{color:red;}
+	span{color:teal;}
+	h1 .span1{color:orange;}
+	.span2{font-size:80px;}
+	del{color:blue;}
+	p{padding:6px;}
+	.p1{text-align:center;}
+	</style>
+	</head>
+<body>
+	<h3>Wd-01.html</h3>
+	<br><br>
+	<div class="wrapper">
+		<h1><span>H</span>e<span>a</span>d<span>i</span>n<span>g</span> <span class="span1">of</span> <span>C</span>o<span>n</span>t<span>e</span>n<span>t</span></h1>
+	
+	<span class="span2">T</span>his is a gfhsdgk kdjflkd irutp .This <a href=/"">content</a> is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .
+	This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .
+	This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This <a href=/"">Web</a> is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .
+	This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .
+	This is a gfhsdgk <a href=/"">designing</a> kdjflkd irutp .This is a <a href=/"">dummy</a> gfhsdgk kdjflkd irutp .This is a gfhsdgk kdjflkd irutp .
+	<br><br><br><br>
+	
+	<p><i><span class="span2">L</span></i>oren ipsam is order to the .oren ipsam is order to the .oren ipsam is order to the .oren ipsam is order to the .oren ipsam is order to the .
+	oren ipsam is order to the <p class="p1">oren ipsam is order to the oren ipsam is order to the oren ipsam is order to the oren ipsam is order to the</p></p>
+	<br><br><br><br>
+	
+	is another day in his life.is another day in his life.is another day in his life.is <del>designing</del>-a Web another day in his life.is another day in his life.
+	is another day in his life.is <a href=/"">dummy</a> another day in his life.vis another day in his life.is another day in his life.is another day in his life.
+	is another day in his life.is another day in his life.
+	
+	<tr>
+	<ul><li><span>H<sub>2</sub>0-</span> another day to text helper.</li></ul>
+	<ul><li><span>X<sup>2</sup>+2XY</span> -for another day to text helper.</li></ul>
+	<ul><li> another day to text helper.</li></ul>
+	<ul><li> another day to text helper.</li></ul>
+	<ul><li>another day to text helper.</li></ul>
+	
+	
+	</tr>
+	
+	
+	
+	
+	
+	
+	
+	</div>
+
+
+
+
+
+
+</body>
+</html>

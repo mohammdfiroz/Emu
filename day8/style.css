@@ -1,0 +1,13 @@
+		a{
+		font-size:30px;  color:purple ; margin-right:15px; text-decoration:none;    
+		}
+		section{
+		font-size:50px; text-align:center;
+		}
+		body{
+			background-color:lightblue;
+		}
+		
+		a:hover{
+			color:red; background:teal; transition-duration:4s;
+		}

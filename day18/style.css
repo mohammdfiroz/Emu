@@ -1,0 +1,16 @@
+*{margin:0px auto; padding:0px;}
+.wrapper{margin:0px auto; padding:0px; width:80%;}
+
+.header{ height:80px; }
+	.leftheader{width:60%; height:80px;float:left;background:teal;}
+	.rightheader{width:40%; height:80px;float:left;background:blue;}
+
+.content{height:400px;}
+	.leftcontent{width:20%;height:400px;background:lightgreen;float:left; }
+	.middlecontent{width:60%;height:400px;background:gray;float:left; }
+	.rightcontent{width:20%;height:400px;background:lightgreen; float:left;}
+
+.footer{ height:80px;}
+	.leftfooter{width:33.33%; height:80px;background:blue;float:left;}
+	.middlefooter{width:33.33%; height:80px;background:lightblue;float:left;}
+	.rightfooter{width:33.33%; height:80px;background:blue;float:left;}

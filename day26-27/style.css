@@ -1,0 +1,16 @@
+*{margin:0px; padding:0px;}
+body{background:red;}
+.header{background:white; color:red;text-align:center;}
+
+span{color:yellow;}
+.navbar{margin-top:0px; margin-bottom:0px; border-radius:0px;}
+h3{color:orange;}
+ul{}
+.lm{list-style:none;}
+p{text-align:justify;}
+button{background:red;color:white;border:1px solid red;}
+h2{color:blue;}
+h6{color:orange;}
+	a{color:red;}
+a:hover{color:white; background:orange; }
+h5{color:white;}

@@ -1,0 +1,13 @@
+*{margin: 0px auto; padding:0px;}
+/*start of wrapper*/
+.wrapper{margin:0px auto; width:80%;}
+
+.header{height:120px;}
+	.header-left{width:70%;float:left;background:blue;height:120px;}
+	.header-left img{width:20%;}
+	.header-left span{width:10%;font-size:30px;color:white;background:red;text-align:center;}
+
+
+.header-right{width:30%;float:left;background:blue;height:120px;}
+	.header-right img{width:10%;background:white;background:white;image:right;}
+	.header-right a{width:10%;text-decoration:block;}	
